@@ -10,6 +10,7 @@ python cleanup_config.py -f <vpn_config_file_name>
 
 Example:
 
+```shell
 python cleanup_config.py -f vpn-0302c7988e405b648.txt
 
 
@@ -120,4 +121,4 @@ router bgp 65001
     network 0.0.0.0
   exit
 exit
-
+```shell
