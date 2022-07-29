@@ -4,7 +4,7 @@ To avoid such issues, you could make use of the below python script which would 
 
 Save the python script as cleanup_config.py
 
-Now run the script using the below syntax:
+Download the VPN config from AWS console or Aviatrix controller and  run the script using the below syntax:
 
 python cleanup_config.py -f <vpn_config_file_name>
 
