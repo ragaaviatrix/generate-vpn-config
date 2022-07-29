@@ -121,4 +121,4 @@ router bgp 65001
     network 0.0.0.0
   exit
 exit
-```shell
+```
